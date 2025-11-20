@@ -2,7 +2,7 @@
 
 A modern, responsive travel booking website built with React and Bootstrap.
 
-![ViaTours Preview] (https://viatours-react-mytegmnu3-dev-kumar-nishads-projects.vercel.app/)
+![ViaTours Preview] (https://viatours-react-mytegmnu3-dev-kumar-nishads-projects.vercel.app?_vercel_share=bxN94szhAne5WqbtnFAb23kpBnBhgedN)
 
 ## ✨ Features
 
